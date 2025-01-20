@@ -1,0 +1,6 @@
+
+
+```
+make && ./snake_game
+  
+```
